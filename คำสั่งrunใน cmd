@@ -1,0 +1,3 @@
+cd MyThesisProject
+venv\Scripts\activate
+python manage.py runserver
